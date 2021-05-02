@@ -1,8 +1,3 @@
-
-
-<!--
-**ChrisSHDev/ChrisSHDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi there 👋, my name is Chris Lee
 
 ### I am a Web developer in Vancouver Area
